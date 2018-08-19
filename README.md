@@ -5,4 +5,4 @@ In Unity**](https://github.com/LifeIsGoodMI/ECS-And-DoD-In-Unity/blob/master/ECS
 It appears that GitHub's PDF viewer doesn't support hyperlinks :( So, if you want to use that function, you probably have to open the PDF in your browser.
 
 
-(https://github.com/LifeIsGoodMI/ECS-And-DoD-In-Unity/blob/master/Media/killerbirds.png)
+![alt text](https://github.com/LifeIsGoodMI/ECS-And-DoD-In-Unity/blob/master/Media/killerbirds.png)
